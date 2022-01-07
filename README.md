@@ -17,9 +17,9 @@ Search for `Stack manibu overflow'
 
 ## Contributing
 
-Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/jdinhify/stack-manibu-overflow/issues).
+Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/richellyitalo/stack-manibu-overflow/issues).
 
 
-Thanks for help to make the Gruvbox theme better.
+Thanks for help to make the Stack Manibu Overflow theme better.
 
 Copyright (C) 2022 [RichellyItalo](https://github.com/richellyitalo)
