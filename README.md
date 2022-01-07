@@ -13,7 +13,7 @@ Search for `Stack manibu overflow'
 
 ### Screenshots
 
-![screenshots](images/screenshots.jpg)
+![screenshots](images/screenshots.png)
 
 ## Contributing
 
