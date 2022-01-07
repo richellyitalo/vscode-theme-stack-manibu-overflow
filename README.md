@@ -1,13 +1,25 @@
 # README
-## This is the README for your extension "stack-manibu-overflow"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is my light theme, based on current theme (2022) from stackoverflow.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Better experience using a cascadia code font.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+Search for `Stack manibu overflow'
+
+## Variants
+
+-   Stack Manibu Overflow
+
+### Screenshots
+
+![screenshots](images/screenshots.jpg)
+
+## Contributing
+
+Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/jdinhify/stack-manibu-overflow/issues).
+
+
+Thanks for help to make the Gruvbox theme better.
+
+Copyright (C) 2022 [RichellyItalo](https://github.com/richellyitalo)
