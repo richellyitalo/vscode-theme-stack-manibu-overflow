@@ -1,0 +1,21 @@
+{
+    "name": "stack-manibu-overflow",
+    "displayName": "Stack Manibu Overflow",
+    "description": "Theme based stack overflow colors. But, its better!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stack Manibu Overflow",
+                "uiTheme": "vs",
+                "path": "./themes/Stack Manibu Overflow-color-theme.json"
+            }
+        ]
+    }
+}
