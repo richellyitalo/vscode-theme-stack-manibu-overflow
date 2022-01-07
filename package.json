@@ -2,7 +2,7 @@
     "name": "stack-manibu-overflow",
     "displayName": "Stack Manibu Overflow",
     "description": "Theme based stack overflow colors. But, its better!",
-    "version": "0.0.3",
+    "version": "0.0.31",
     "repository": {
         "type": "git",
         "url": "https://github.com/richellyitalo/vscode-theme-stack-manibu-overflow.git"

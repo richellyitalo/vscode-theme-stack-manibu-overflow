@@ -17,7 +17,7 @@ Search for `Stack manibu overflow'
 
 ## Contributing
 
-Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/richellyitalo/stack-manibu-overflow/issues).
+Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/richellyitalo/vscode-theme-stack-manibu-overflow/issues).
 
 
 Thanks for help to make the Stack Manibu Overflow theme better.
