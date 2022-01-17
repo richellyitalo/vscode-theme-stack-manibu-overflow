@@ -1010,7 +1010,7 @@
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#b75301"
       }
     },
     {
